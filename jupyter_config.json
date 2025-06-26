@@ -1,0 +1,14 @@
+{
+  "NotebookApp": {
+    "notebook_dir": "./notebooks",
+    "open_browser": true,
+    "port": 8888,
+    "ip": "localhost"
+  },
+  "ServerApp": {
+    "notebook_dir": "./notebooks",
+    "open_browser": true,
+    "port": 8888,
+    "ip": "localhost"
+  }
+}
