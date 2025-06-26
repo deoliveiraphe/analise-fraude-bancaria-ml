@@ -104,12 +104,6 @@ dmypy.json
 # *.xlsx
 # *.xls
 
-# Model files
-*.pkl
-*.joblib
-*.h5
-*.hdf5
-
 # Results and outputs
 results/
 outputs/
