@@ -105,7 +105,6 @@ dmypy.json
 # *.xls
 
 # Results and outputs
-results/
 outputs/
 logs/
 
