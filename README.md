@@ -16,7 +16,7 @@ Este projeto implementa um **sistema de detecção de fraudes bancárias** utili
 
 ## 🔍 Dataset Utilizado
 
-- **Dataset:** [Kagle - Análise de Padrões e Detecção de Fraudes](https://www.kaggle.com/datasets/luisfernandolfss/bank-transactions-data-2)
+- **Dataset:** [Análise de Padrões e Detecção de Fraudes (Kagle)](https://www.kaggle.com/datasets/luisfernandolfss/bank-transactions-data-2)
 - **Tamanho:** 10.000 transações bancárias sintéticas
 - **Features:** 15 variáveis incluindo valor da transação, idade do cliente, saldo da conta, canal de atendimento, etc.
 - **Formato:** CSV com dados limpos e estruturados
