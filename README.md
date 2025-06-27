@@ -270,28 +270,6 @@ print(f"Score de Risco: {risk_score:.1f}")
 
 ---
 
-## 🎯 Casos de Uso
-
-### 1. Monitoramento em Tempo Real
-
-- Analisar cada transação conforme ela acontece
-- Bloquear automaticamente transações de alto risco
-- Alertar equipe de segurança para investigação manual
-
-### 2. Análise de Portfólio
-
-- Identificar clientes com comportamento de risco
-- Avaliar exposição geral do banco a fraudes
-- Priorizar recursos de investigação
-
-### 3. Auditoria e Compliance
-
-- Gerar relatórios de transações suspeitas
-- Documentar processos de detecção
-- Apoiar investigações de órgãos reguladores]
-
----
-
 ## 👤 Autor
 
 **Pedro Henrique Oliveira**
